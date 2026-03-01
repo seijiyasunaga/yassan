@@ -1,0 +1,25 @@
+{
+  "events": [
+    {
+      "date": "2026-03-01",
+      "time": "09:00",
+      "title": "朝会",
+      "location": "会議室A",
+      "description": "週次チームミーティング"
+    },
+    {
+      "date": "2026-03-01",
+      "time": "13:00",
+      "title": "プロジェクトレビュー",
+      "location": "Zoom",
+      "description": "Q1成果物の確認"
+    },
+    {
+      "date": "2026-03-01",
+      "time": "16:30",
+      "title": "1on1",
+      "location": "マネージャーオフィス",
+      "description": ""
+    }
+  ]
+}
